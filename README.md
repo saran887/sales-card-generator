@@ -59,9 +59,9 @@ Below is a sample of the provided `sales list.xlsx` file. Only the relevant colu
 
 | Sno | Bill No | Date       | Party      | Group   | S.Man   | Credit   | Mobile      |
 |-----|---------|------------|------------|---------|---------|----------|-------------|
-| 1   | 13614   | 17/07/2025 | (example)  | (group) | (name)  | 1000.00  | 9876543210  |
-| 2   | 13615   | 17/07/2025 | (example2) | (group) | (name2) | 2000.00  | 9123456780  |
-| 3   | 13616   | 17/07/2025 | (example3) | (group) | (name3) | 1500.00  | 9988776655  |
+| 1   | 13614   | 17/07/2025 | (example)  | (group) | (name)  | 1000.00  | 0000000000  |
+| 2   | 13615   | 17/07/2025 | (example2) | (group) | (name2) | 2000.00  | 8888888888  |
+| 3   | 13616   | 17/07/2025 | (example3) | (group) | (name3) | 1500.00  | 9999999999  |
 
 **Note:** The actual file contains many more columns, but only the above are required for card generation. Make sure your Excel file includes at least these columns: `Party`, `Mobile`, `Bill No`, `Date`, `Credit`, `S.Man`, and `Group`.
 
